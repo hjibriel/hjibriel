@@ -1,4 +1,3 @@
-# 💫 About Me
 ### Hi, I’m Hodhan!
 💻 Computer Science student with a genuine passion for technology and continuous learning<br/>
 🎓 Studying at the University of Nairobi<br/>
